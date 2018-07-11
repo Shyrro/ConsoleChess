@@ -1,0 +1,10 @@
+C:\Users\s-zak\Documents\ConsoleChess\bin\Debug\netcoreapp2.0\ConsoleChess.deps.json
+C:\Users\s-zak\Documents\ConsoleChess\bin\Debug\netcoreapp2.0\ConsoleChess.runtimeconfig.json
+C:\Users\s-zak\Documents\ConsoleChess\bin\Debug\netcoreapp2.0\ConsoleChess.runtimeconfig.dev.json
+C:\Users\s-zak\Documents\ConsoleChess\bin\Debug\netcoreapp2.0\ConsoleChess.dll
+C:\Users\s-zak\Documents\ConsoleChess\bin\Debug\netcoreapp2.0\ConsoleChess.pdb
+C:\Users\s-zak\Documents\ConsoleChess\obj\Debug\netcoreapp2.0\ConsoleChess.csproj.CoreCompileInputs.cache
+C:\Users\s-zak\Documents\ConsoleChess\obj\Debug\netcoreapp2.0\ConsoleChess.AssemblyInfoInputs.cache
+C:\Users\s-zak\Documents\ConsoleChess\obj\Debug\netcoreapp2.0\ConsoleChess.AssemblyInfo.cs
+C:\Users\s-zak\Documents\ConsoleChess\obj\Debug\netcoreapp2.0\ConsoleChess.dll
+C:\Users\s-zak\Documents\ConsoleChess\obj\Debug\netcoreapp2.0\ConsoleChess.pdb
