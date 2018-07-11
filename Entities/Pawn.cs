@@ -10,11 +10,12 @@ namespace Entities
             this.Position = position;
             this.Color = color;
         }
-
+ 
         public string Id {get;set;}
         public Position Position {get;set;}
         public Color Color {get;set;}
 
+        //maybe this will change later
         abstract public void move(Position start, Position end);
 
     }
